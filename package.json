@@ -1,6 +1,7 @@
 {
   "name": "@fasteerjs/website",
-  "version": "0.1.0",
+  "author": "Mia (Filip Vottus) <vottus@vott.us>",
+  "version": "0.0.1",
   "private": false,
   "license": "MIT",
   "dependencies": {
@@ -41,8 +42,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "bulma": "^0.8.2"
   }
 }
